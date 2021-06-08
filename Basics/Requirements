@@ -1,0 +1,13 @@
+Folder contains Basics for Azure Machine Learning
+
+Prerequisites:
+
+Subscription to Azure Machine Learning (1st month free)
+Jupyter NB
+Python IDE or PyCharm
+Azure CLI installed (a command line interface to interact with Azure Machine Learning)
+
+Python packages:
+azureml-sdk
+azure-cli
+basic Data science and ML packages: pandas, numpy, scikit-learn, Tensorflow, Keras, etc
