@@ -1,6 +1,6 @@
 '''
 #Train a simple deep CNN on the CIFAR10 small images dataset.
-
+This script was provided by auhors of 'Mastering Azure Machine Learning' 
 Source: https://raw.githubusercontent.com/keras-team/keras/master/examples/cifar10_cnn.py
 '''
 
